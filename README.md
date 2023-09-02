@@ -50,4 +50,5 @@ pip install imutils
 
 ## Result
 
-![GitHub Logo]([image\output_image.jpg](https://github.com/sokklang/DlibFacialLandmarks/blob/main/image/output_image.jpg)https://github.com/sokklang/DlibFacialLandmarks/blob/main/image/output_image.jpg)
+![Local Image](image/output_image.jpg)
+
