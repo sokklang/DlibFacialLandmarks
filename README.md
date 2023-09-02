@@ -9,6 +9,7 @@ Make sure you have the following libraries installed:
 - OpenCV (`cv2`)
 - Dlib
 - Imutils
+- shape_predictor_68_face_landmarks.dat [link here](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2).
 
 You can install these libraries using pip:
 
