@@ -47,3 +47,7 @@ pip install imutils
 2. The code includes predefined ranges for the jawline, eyebrows, and other face regions. You can customize these ranges or add new ones to suit your needs.
 
 3. You can change the line colors and thickness by modifying the `cv2.circle` and `cv2.line` function arguments in the code.
+
+## Result
+
+![Local image](image\output_image.jpg)
